@@ -1,4 +1,4 @@
-#  Responsive React Footer
+#  Responsive React Footer:-
 
 A **fully responsive footer** built with **React + Vite + Tailwind CSS**, featuring newsletter subscription, social media icons, and clean modern design.
 
